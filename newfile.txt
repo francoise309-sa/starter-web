@@ -1,2 +1,0 @@
-Attention : il y a qq chose qui a été volontairement oublié dans ces lignes. Un indice : avant un commit , il faut
-toujours placer les modifications dans la staging area.
